@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hong"
+  given-names: "Wenzhi"
+  orcid: "https://orcid.org/0000-0002-8781-8627"
+title: "Tube Lens Design Software"
+version: 1.0
+doi: 10.5281/zenodo.5730690
+date-released: 2021-11-26
+url: "https://github.com/hongwz/Automatic_Tube_Lens_Design_Software"
