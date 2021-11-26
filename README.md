@@ -16,6 +16,8 @@ This catalogue can be directly used in the Doublet Selector.
 
 PRESS "CHECK THE CONNECTION WITH ZEMAX" TO INITALISE THE CONNECTION BETWEEN ZEMAX AND MATLB FIRST.
 
+After entering all the catalogue requirements, press "Generate" and "Refresh" buttons to produce desired doublet catalogue.
+
 # Doublet Selector
 Doublet Selector 1.0 is produced to be used with Zemax version after 20.2 with CARD operand.
 
@@ -23,6 +25,6 @@ Doublet Selector 1.1 is produced to be used with Zemax version before 20.2 witho
 
 PRESS "CHECK THE CONNECTION WITH ZEMAX" TO INITALISE THE CONNECTION BETWEEN ZEMAX AND MATLB FIRST.
 
-After entering all the design requirements, press "Go" and "Print" buttons to start the optimisation and print out the results in the user interface.
+After entering all the tube lens design requirements, press "Go" and "Print" buttons to start the optimisation and print out the results in the user interface.
 
 "Decode" button is used to decode the lens pair number.
