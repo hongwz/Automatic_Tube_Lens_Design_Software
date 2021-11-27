@@ -28,3 +28,5 @@ PRESS "CHECK THE CONNECTION WITH ZEMAX" TO INITALISE THE CONNECTION BETWEEN ZEMA
 After entering all the tube lens design requirements, press "Go" and "Print" buttons to start the optimisation and print out the results in the user interface.
 
 "Decode" button is used to decode the lens pair number.
+
+See "TEST SAMPLE" folder for more information.
