@@ -4,7 +4,7 @@
 2. Check the connection between the software and Zemax.
 3. Input the tube lens design parameters as "Test input and result.png" file.
     "Folder name" corresponds to creating a folder in the Zemax "Sample" folder (C:\Users\XXX\Documents\Zemax\Samples).
-    Most of stock achromatic doublets are suitable to used in the wavelength range from 0.4um to 0.7um.
+    Most of stock achromatic doublets are suitable for the wavelength range from 0.4um to 0.7um.
 4. Press "Go" and "Print"
 5. Once the progress is done, the "Combination number" and "Total number of combinations" can be seen in the user interface. 
 6. Press "Decode" to get the identification number of stock achromatic doublets in the catalogue.
