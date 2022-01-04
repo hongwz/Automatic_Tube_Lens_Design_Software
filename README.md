@@ -25,7 +25,19 @@ Doublet Selector 1.1 is produced to be used with Zemax version before 20.2 witho
 
 PRESS "CHECK THE CONNECTION WITH ZEMAX" TO INITALISE THE CONNECTION BETWEEN ZEMAX AND MATLB FIRST.
 
-After entering all the tube lens design requirements, press "Go" and "Print" buttons to start the optimisation and print out the results in the user interface.
+1. Enter the tube lens design parameters: tube lens focal length, entrance pupil diameter and field angle.
+
+2. Set the lens separation range according to the system requirement.
+
+3. Choose the optimisation option in "Distance from Entrance Pupil (EP) to Doublet 1"
+
+(if you use the version without CARD to optimise "Telecentric" or "Set distance from EP to 1st principal plane", then you need to select the optimisation accuracy.)
+
+4. Set the tube lens configuration. According to our research, based on stock optics Configuration C can provide the best performance.
+
+5. Set the optimisation reference (Chief Ray or Centroid)
+
+6. After entering all the requirements, press "Go" and "Print" buttons to start the optimisation and print out the results in the user interface.
 
 "Decode" button is used to decode the lens pair number.
 
