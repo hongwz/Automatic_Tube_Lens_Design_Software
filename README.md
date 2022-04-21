@@ -26,7 +26,7 @@ Doublet Selector 1.1 is produced to be used with Zemax version before 20.2 witho
 
 PRESS "CHECK THE CONNECTION WITH ZEMAX" TO INITALISE THE CONNECTION BETWEEN ZEMAX AND MATLB FIRST.
 
-!!!Before you run the software, please check that your Zemax has added all material catalogues:
+!!!Before you run the software, please check that your Zemax can automatically add all needed material catalogues:
 
 This can be check by opening a new Zemax file and typing material "ZF2" which is in CDGM catalog.!!!
 
