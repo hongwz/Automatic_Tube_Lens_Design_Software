@@ -28,7 +28,7 @@ PRESS "CHECK THE CONNECTION WITH ZEMAX" TO INITALISE THE CONNECTION BETWEEN ZEMA
 
 !!!Before you run the software, please check that your Zemax can automatically add all needed material catalogues:
 
-This can be check by opening a new Zemax file and typing material "ZF2" which is in CDGM catalog.!!!
+This can be checked by opening a new Zemax file and typing material "ZF2" which is in CDGM catalog.!!!
 
 1. Enter the tube lens design parameters: tube lens focal length, entrance pupil diameter and field angle.
 
