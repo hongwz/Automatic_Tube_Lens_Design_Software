@@ -1,5 +1,6 @@
 0. Make sure you run a correct version of Doublet Selector 
     (v1.0 with CARD only for Zemax after 20.2; v1.1 without CARD can be run in all versions)
+    (Make sure your Zemax can automatically load differnet material catalogues, see )
 1. Copy the catalogue file "All_Lenses_app.xlsx" to the same folder as the Doublet Selector.
 2. Check the connection between the software and Zemax.
 3. Input the tube lens design parameters as "Test input and result.png" file.
